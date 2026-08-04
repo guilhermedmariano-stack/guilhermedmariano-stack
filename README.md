@@ -10,7 +10,7 @@ Cursando: 2º Ano do ensino médio
 Aprendendo: Manufatura Digital - SENAI  
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermedmariano-stack&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gui-dantass-stack&show_icons=true&theme=dark)  
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
