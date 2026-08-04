@@ -1,1 +1,2 @@
-https://images.immediate.co.uk/production/volatile/sites/3/2023/12/GTA-6-Graphics-34da9b9.jpg?quality=90&resize=980,654
+<img width="980" height="654" alt="image" src="https://github.com/user-attachments/assets/678bb27e-da93-4bc1-b946-531e92814625" />
+
